@@ -1,1 +1,0 @@
-test_project_for_exercise_git
